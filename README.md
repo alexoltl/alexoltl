@@ -1,4 +1,4 @@
-### Hi there! I'm Alex, and I like to code.
+# Hi there! I'm Alex, and I like to code.
 
 - I’m currently in school, learing digital technologies.
 - I’m currently learning python and java.
