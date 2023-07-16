@@ -1,4 +1,1 @@
-# welcome to my profile
-i'm still learning, please give constructive criticism
-
-discord: alexoltl#8251
+<img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&username=alexoltl" height="150">
